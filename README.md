@@ -18,4 +18,7 @@ Si quieres contribuir a alguna mejora de algo que encontreis, eres totalmente li
 
 ## Autor
 
-Juan Carlos Manzanares Serrano - [@Juancams](https://github.com/Juancams)
+* Juan Carlos Manzanares Serrano - [@Juancams](https://github.com/Juancams)
+
+[![Watch the video](https://github.com/Juancams/RandomThings/blob/main/media/rrss/twitter.png)](https://twitter.com/Juancams98)
+[![Watch the video](https://github.com/Juancams/RandomThings/blob/main/media/rrss/linkdn.png)](https://www.linkedin.com/in/juancams/)
