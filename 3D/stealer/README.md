@@ -8,7 +8,7 @@ Primer robot diseñado junto a mis compañeros en la asignatura de Mecatronica d
 
 <img src="https://github.com/Juancams/Mecatronica-Proyecto/blob/main/images/movement/hormiga_bailando.gif" alt="drawing" width="900"/>
 
-Si quieres ver todo su contenido, visita nuestro [repositorio](https://github.com/Juancams/Mecatronica-Proyecto) o mas en información en nuestra [wiki](https://github.com/Juancams/Mecatronica-Proyecto/wiki).
+Si quieres ver todo su contenido, visita nuestro [repositorio](https://github.com/Juancams/Mecatronica-Proyecto) o más información en nuestra [wiki](https://github.com/Juancams/Mecatronica-Proyecto/wiki).
 
 ## Autores
 
