@@ -10,6 +10,11 @@ En este repositorio iré añadiendo todo lo que suelo ir haciendo en mi tiempo l
   * [Munchkin](https://github.com/Juancams/RandomThings/tree/main/3D/munchkin)
 * [Pixel](https://github.com/Juancams/RandomThings/tree/main/pixel)
 
+## Licencia
+Todo lo que encontreis aquí puede ser usado de forma libre por cualquier persona, siempre y cuando no se atribuyan los derechos. 
+
+Si quieres contribuir a alguna mejora de algo que encontreis, eres totalmente libre de hacerlo y de hacerme un Pull Request. Todo ello será subido a una rama a parte.
+
 ## Autor
 
 Juan Carlos Manzanares Serrano - [@Juancams](https://github.com/Juancams)
