@@ -8,7 +8,7 @@ En este repositorio iré añadiendo todo lo que suelo ir haciendo en mi tiempo l
 
 * [Diseños 3D](https://github.com/Juancams/RandomThings/tree/main/3D)
   * [Munchkin](https://github.com/Juancams/RandomThings/tree/main/3D/munchkin)
-  * [The stealer](https://github.com/Juancams/RandomThings/tree/main/3D/stealer)
+  * [The Stealer](https://github.com/Juancams/RandomThings/tree/main/3D/stealer)
 * [Pixel](https://github.com/Juancams/RandomThings/tree/main/pixel)
 
 ## Licencia
