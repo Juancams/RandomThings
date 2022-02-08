@@ -20,9 +20,7 @@ Si quieres contribuir a alguna mejora de algo que encontreis, eres totalmente li
 
 * Juan Carlos Manzanares Serrano - [@Juancams](https://github.com/Juancams)
 
-[![Watch the video](https://github.com/Juancams/RandomThings/blob/main/media/rrss/twitter.png)](https://twitter.com/Juancams98)
-[![Watch the video](https://github.com/Juancams/RandomThings/blob/main/media/rrss/linkdn.png)](https://www.linkedin.com/in/juancams/)
-[![Watch the video](https://github.com/Juancams/RandomThings/blob/main/media/rrss/youtube.png)](https://www.youtube.com/channel/UCHaEDC482IjA6KO6RxA7qhg/featured)
-[![Watch the video](https://github.com/Juancams/RandomThings/blob/main/media/rrss/web.png)](https://juancams.github.io)
-[![Watch the video](https://github.com/Juancams/RandomThings/blob/main/media/rrss/facebook.png)](https://www.linkedin.com/in/juancams/)
-[![Watch the video](https://github.com/Juancams/RandomThings/blob/main/media/rrss/instagram.png)](https://www.instagram.com/Juancams98/)
+<a href="https://twitter.com/Juancams98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juancams98" height="60" width="60" /></a> 
+<a href="https://linkedin.com/in/juancams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juancams" height="60" width="60" /></a>
+<a href="https://www.youtube.com/channel/UCHaEDC482IjA6KO6RxA7qhg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCHaEDC482IjA6KO6RxA7qhg" height="60" width="60" /></a>
+<a href="https://instagram.com/juancams98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juancams98" height="60" width="60" /></a>
